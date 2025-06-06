@@ -1,0 +1,118 @@
+{
+	"id": "2169aa0d-f747-474c-a84b-1779774979e3",
+	"name": "For Runner Collection SS",
+	"timestamp": "2025-05-27T12:32:07.565Z",
+	"collection_id": "44270766-89aebd08-e0a1-4ee4-8db0-3713a085ebbc",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 0,
+	"delay": 0,
+	"persist": true,
+	"status": "finished",
+	"startedAt": "2025-05-27T12:32:01.837Z",
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "631726f3-607f-47c0-9712-2c23892b7236",
+			"name": "Auth",
+			"url": "http://192.168.0.107:8080/swiftsendapi/payout/api/authorize",
+			"time": 83,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				173,
+				83
+			],
+			"allTests": [
+				{},
+				{}
+			]
+		},
+		{
+			"id": "7f1a800a-2ce2-41c0-acab-8d021d629709",
+			"name": "Payout Transfer",
+			"url": "http://192.168.0.107:8080/swiftsendapi/payout/api/payout/transfer",
+			"time": 27,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				1622,
+				27
+			],
+			"allTests": [
+				{},
+				{}
+			]
+		},
+		{
+			"id": "695be055-66a5-4420-b826-ef39e1f4b0ba",
+			"name": "payout Status",
+			"url": "http://192.168.0.107:8080/swiftsendapi/payout/api/payout/status",
+			"time": 84,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				24,
+				84
+			],
+			"allTests": [
+				{},
+				{}
+			]
+		},
+		{
+			"id": "e608266e-7f0f-4907-a48a-a34ca9b986be",
+			"name": "Failed Callback",
+			"url": "http://192.168.0.107:8080/swiftsendapi/payout/api/razorpay/callback",
+			"time": 31,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				168,
+				31
+			],
+			"allTests": [
+				{},
+				{}
+			]
+		}
+	],
+	"count": 2,
+	"totalTime": 2212,
+	"collection": {
+		"requests": [
+			{
+				"id": "631726f3-607f-47c0-9712-2c23892b7236",
+				"method": "POST"
+			},
+			{
+				"id": "7f1a800a-2ce2-41c0-acab-8d021d629709",
+				"method": "POST"
+			},
+			{
+				"id": "695be055-66a5-4420-b826-ef39e1f4b0ba",
+				"method": "POST"
+			},
+			{
+				"id": "e608266e-7f0f-4907-a48a-a34ca9b986be",
+				"method": "POST"
+			}
+		]
+	}
+}
