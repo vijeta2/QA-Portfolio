@@ -1,7 +1,50 @@
-# QA-Portfolio
-Welcome to my portfolio! I am Vijeta Ojha, a dedicated and detail-oriented Junior QA Tester with 1 year of experience in the fintech industry. My goal is to ensure the delivery of high-quality software products through rigorous testing and continuous improvement.
-## Table of Contents
-- [About Me](#about-me)
-- [Skills & Expertise](#skills--expertise)
-- [Projects](#projects)
-- [Achievements](#achievements)
+# Vijeta Ojha – QA Portfolio
+
+Hi, I'm Vijeta Ojha — a passionate QA Engineer with hands-on experience in functional, UI, API, and automation testing across fintech projects.
+
+---
+
+## 🛠️ Skills
+
+- Manual Testing (UI, Regression, Functional)
+- Selenium + TestNG + Java
+- API Testing (Postman, Swagger, JMeter)
+- Bug Tracking (Jira)
+- SQL | Agile | Android App Testing
+
+---
+
+## 📁 Folder Breakdown
+
+### 🔹 ManualTesting
+- Excel-based test cases
+- Bug reports with steps and screenshots
+
+### 🔹 Postman
+- Wallet API collection with test scripts
+- HTML report via Newman
+
+### 🔹 Selenium
+- Sample login automation using POM
+- Configured using Maven & TestNG
+
+### 🔹 JMeter
+- Payin Load Test `.jmx`
+- Summary CSV report
+
+---
+
+## 🖼️ Visuals
+
+### 🔹 Bug Screenshot
+![Bug Screenshot](Images/Bug_Screenshot.png)
+
+### 🔹 Postman Test Report
+![Postman Report](Images/Postman_Report_Screenshot.png)
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: ojhavijeta23@gmail.com
+- 🔗 LinkedIn: [VijetaOjha](https://www.linkedin.com/in/vijetaojha)
