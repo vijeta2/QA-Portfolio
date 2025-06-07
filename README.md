@@ -37,7 +37,7 @@ Hi, I'm Vijeta Ojha — a passionate QA Engineer with hands-on experience in fun
 ## 🖼️ Visuals
 
 ### 🔹 Bug Screenshot
-![Bug Screenshot](Images/Bug_Screenshot.png)
+![Bug Screenshot](Images/Bug_Screenshots)
 
 ### 🔹 Postman Test Report
 ![Postman Report](Images/Postman_Report_Screenshot.png)
@@ -47,4 +47,4 @@ Hi, I'm Vijeta Ojha — a passionate QA Engineer with hands-on experience in fun
 ## 📫 Contact Me
 
 - 📧 Email: ojhavijeta23@gmail.com
-- 🔗 LinkedIn: [VijetaOjha](https://www.linkedin.com/in/vijetaojha)
+- 🔗 LinkedIn: [VijetaOjha](https://www.linkedin.com/in/vijeta-ojha-967528202/)
