@@ -37,7 +37,7 @@ Hi, I'm Vijeta Ojha — a passionate QA Engineer with hands-on experience in fun
 ## 🖼️ Visuals
 
 ### 🔹 Bug Screenshot
-![Bug Screenshot](Images/Bug_Screenshots)
+![Bug Screenshot](Images/Bug_Screenshot.png)
 
 ### 🔹 Postman Test Report
 ![Postman Report](Images/Postman_Report_Screenshot.png)
